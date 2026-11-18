@@ -96,13 +96,13 @@
 
 ## Phase 7 — Host, announce & memorialize (your instruction)
 
-Per explicit user instruction (2026-11-19): *This section is updated at the end of the run — status as delivered appears in README.md and in the OpenCode memory log; this file is rewritten at Phase 8.*
+Delivered 2026-11-19:
 
-- [ ] **Hosted on Vercel** — `npx vercel --prod` (URL lands in README.md)
-- [ ] **GitHub public repo** — `KARTHIKEYASHARMA672/artisan-ai-picasso`
-- [ ] **Memory updated** — `opencode-private-memory` (session file + README) **and** `KARTHIKEYASHARMA672/memory` (`Anti Gravity Memory.md`) per global rule §17
-- [ ] **skills log** — no new external skills were imported this session (skills.sh/skillsplot.sh could not be reached); the project consumed existing Tier-1 skills (`frontend-design`, `colours for websites`, `react-best-practices`) already in `KARTHIKEYASHARMA672/skills` — no duplicates uploaded
-- [ ] **Readme posted** — with hosted URL + verified gallery
+- [x] **Hosted on Vercel** — `https://artisan-ai-picasso.vercel.app` (deployment `artisan-ai-picasso-chb8ucz4z-karthikeyas-projects-2ba9c8bb`)
+- [x] **GitHub public repo** — `KARTHIKEYASHARMA672/artisan-ai-picasso` (main tracks origin)
+- [x] **Memory updated** — `opencode-private-memory` (session file `sessions/2026-11-19-artisan-ai-picasso.md` + README index) **and** `KARTHIKEYASHARMA672/memory` (`Anti Gravity Memory.md` appended with the project record)
+- [x] **skills log** — no new external skills were imported this session; skills.sh/skillsplot.sh unreachable. Project consumed existing Tier-1 skills (`frontend-design`, `colours for websites`, `react-best-practices`) already in `KARTHIKEYASHARMA672/skills` — no duplicates uploaded
+- [x] **Readme posted** — with hosted URL + verified gallery (01 hero → 06 full page)
 
 ## Loose ends
 

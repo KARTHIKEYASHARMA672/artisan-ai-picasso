@@ -15,8 +15,8 @@
 
 ## 🚀 Live demo
 
-> ### 👉 **Hosted app:** `https://artisan-ai-picasso.vercel.app` _(updated on every deploy to main)_
-> _(Final URL written at deploy time — 2026-11-19)_
+> ### 👉 **Hosted app:** [https://artisan-ai-picasso.vercel.app](https://artisan-ai-picasso.vercel.app)
+> _(Live as of 2026-11-19 · redeploys on every push to `main`)_
 
 > ⚠️ **Legal note:** This is a **simulation, not the man**. No Picasso image reproduces anywhere (© Sucesión Pablo Picasso / VEGAP until 1 Jan 2044; moral rights perpetual). The persona is a citation-linked reconstruction of documented sources — interviews, letters, memoirs, museum and conservation technical files — and is silent until licensed by the estate for any public-voice use.
 
